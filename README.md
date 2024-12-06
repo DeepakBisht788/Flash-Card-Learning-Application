@@ -18,9 +18,9 @@ Flashy is a Python-based flashcard application designed to help you learn new wo
 - `right.png` (Tick button image)
 
 ## Prepare Word Files:
-- **Include french_words.csv in the directory. This should be a CSV file with "French" and "English" columns. If the app runs before creating words_to_learn.csv, it will automatically generate one.
+- Include french_words.csv in the directory. This should be a CSV file with "French" and "English" columns. If the app runs before creating words_to_learn.csv, it will automatically generate one.
 
 ## How to Use
-- **Click the Right button if you know the word. It will remove the word from your review list.
-- **Click the Wrong button if you don’t know the word. It will keep the word in your review list.
-- **Flashcards flip automatically after a few seconds to show the English translation.
+- Click the Right button if you know the word. It will remove the word from your review list.
+- Click the Wrong button if you don’t know the word. It will keep the word in your review list.
+- Flashcards flip automatically after a few seconds to show the English translation.
