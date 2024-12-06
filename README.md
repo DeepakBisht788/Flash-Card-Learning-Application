@@ -12,10 +12,10 @@ Flashy is a Python-based flashcard application designed to help you learn new wo
 ## Prepare Image Files:
 **Ensure the following image files are in the same directory as the script:**
 
-- **card_front.png (Front of the flashcard)
-- **card_back.png (Back of the flashcard)
-- **wrong.png (Cross button image)
-- **right.png (Tick button image)
+- `card_front.png` (Front of the flashcard)
+- `card_back.png` (Back of the flashcard)
+- `wrong.png` (Cross button image)
+- `right.png` (Tick button image)
 
 ## Prepare Word Files:
 - **Include french_words.csv in the directory. This should be a CSV file with "French" and "English" columns. If the app runs before creating words_to_learn.csv, it will automatically generate one.
